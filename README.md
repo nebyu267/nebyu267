@@ -1,6 +1,9 @@
 👋 Hi, I’m @Nebyu Daniel
+
 👀 I’m interested in lots of things but just to mention some, Front-End software development, Standalone Application, Back-End software development, and general full-stack software development using C#, Java, JS, PHP, HTML, CSS
-. 🌱 I’m currently working on FullStack Development.
+
+🌱 I’m currently working on FullStack Development.
+
 . 📫 How to reach me - nebyudaniel7778@gmail.com
 <!--
 **nebyu267/nebyu267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
