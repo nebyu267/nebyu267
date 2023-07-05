@@ -4,7 +4,7 @@
 
 🌱 I’m currently working on FullStack Development.
 
-. 📫 How to reach me - nebyudaniel7778@gmail.com
+📫 How to reach me - nebyudaniel7778@gmail.com
 <!--
 **nebyu267/nebyu267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
