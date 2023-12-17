@@ -1,6 +1,7 @@
 👋 Hi, I’m @Nebyu Daniel
 
-👀 I’m interested in lots of things but just to mention some, Front-End software development, Standalone Application, Back-End software development, and general full-stack software development using C#, Java, JS, PHP, HTML, CSS
+👀 I’m interested in lots of things but just to mention some, Front-End software development, Standalone Application, Back-End software development, and general full-stack software development using C#, Java, JS, PHP, Angular, Node js
+
 
 🌱 I’m currently working on FullStack Development.
 
